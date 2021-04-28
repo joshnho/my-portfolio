@@ -1,0 +1,26 @@
+.navbar-container {
+    height: 70px;
+    width: 100%;
+    background-color: rgba(33, 33, 33, 1);
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+
+}
+
+.navbar-buttons-container {
+    display: flex;
+    width: 100px;
+    justify-content: center;
+}
+
+.navbar-button {
+    width: 7em;
+    height: 100%;
+    background-color: rgba(33, 33, 33, 1);
+    color: white;
+    border: 1px;
+
+    /* background-color: black; */
+    /* border-radius: 5px; */
+}
